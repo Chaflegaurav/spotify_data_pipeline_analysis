@@ -1,0 +1,101 @@
+name,id,duration,album_type,popularity,artists_name,duration_minutes,popularity_category,duration_category
+Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,200.04,album,90,The Weeknd,3.33,Very High,Medium
+Shape of You,7qiZfU4dY1lWllzX7mPBI3,233.712,album,89,Ed Sheeran,3.9,Very High,Medium
+Starboy,5aAx2yezTd8zXrkmtKl66Z,230.453,album,4,"The Weeknd, Daft Punk",3.84,NULL,Medium
+Sweater Weather,2QjOHCTQ1Jl3zawyYOpxh6,240.4,album,92,The Neighbourhood,4.01,Very High,NULL
+Someone You Loved,7qEHsqek33rTcFNT9PFqLf,182.16,album,87,Lewis Capaldi,3.04,Very High,Medium
+As It Was,4Dvkj6JhhA12EX05fT7y2e,167.303,album,88,Harry Styles,2.79,Very High,Medium
+Sunflower - Spider-Man: Into the Spider-Verse,3KkXRkHbMCARz0aVfEt68P,158.04,compilation,82,"Post Malone, Swae Lee",2.63,Very High,Medium
+One Dance,1xznGGDReH1oQq0xzbwXa3,173.986,album,3,"Drake, Wizkid, Kyla",2.9,NULL,Medium
+STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,141.805,album,9,"The Kid LAROI, Justin Bieber",2.36,NULL,Short
+Perfect,0tgVpDi06FyKpA1z0VMD4v,263.4,album,89,Ed Sheeran,4.39,Very High,NULL
+Believer,0CcQNd8CINkwQfe1RDtGV6,204.346,album,4,Imagine Dragons,3.41,NULL,Medium
+Heat Waves,6CDzDgIUqeDY5g8ujExx2f,238.805,single,6,Glass Animals,3.98,NULL,Medium
+lovely (with Khalid),0u2P5u6lvoDfwTYjAADbn4,200.185,single,88,"Billie Eilish, Khalid",3.34,Very High,Medium
+Closer,7BKLCZ1jbUBVqRi2FVlTVw,244.96,single,87,"The Chainsmokers, Halsey",4.08,Very High,NULL
+Bossa velha,77CvPAHOsHWl43rUV3zsg6,203.047,album,40,SEHORE,3.38,Medium,Medium
+Say You Won't Let Go,5uCax9HTNlzGybIStD3vDh,211.477,album,86,James Arthur,3.52,Very High,Medium
+I Wanna Be Yours,5XeFesFbtLpXzIVDNQP22n,183.956,album,92,Arctic Monkeys,3.07,Very High,Medium
+Smashed My Own Record,5RrAtjA86a3qQ48m6KzXaX,172.8,album,48,Kris James,2.88,Medium,Medium
+The Night We Met,3hRV0jL3vUpRrcy398teAU,208.211,album,90,Lord Huron,3.47,Very High,Medium
+Yellow,3AJwUDP919kvQ9QcozQPxg,266.773,album,91,Coldplay,4.45,Very High,NULL
+Something Just Like This,6RUKPb4LETWmmr3iAEQktW,247.16,album,87,"The Chainsmokers, Coldplay",4.12,Very High,NULL
+Riptide,7yq4Qj7cqayVTp3FF9CWbm,204.28,album,81,Vance Joy,3.4,Very High,Medium
+The Raven,7e58bx0xbFxxMagHJwv42q,205.087,single,44,Jagged Blue,3.42,Medium,Medium
+Dance Monkey,2XU0oxnq2qxCpomAAuJY8K,209.438,single,74,Tones And I,3.49,High,Medium
+Eggshell Tap Dancer,2zzjpwG8wu3skr08m7rM6e,227.171,single,57,The All-American Rejects,3.79,Medium,Medium
+Another Love,3JvKfv6T31zO0ini8iNItO,244.36,album,88,Tom Odell,4.07,Very High,NULL
+rockstar,7wGoVu4Dady5GV0Sv4UIsx,218.32,single,3,"Post Malone, 21 Savage",3.64,NULL,Medium
+Take Me To Church,2EiGECydkS2M8OCcRHQZhT,241.688,album,1,Hozier,4.03,NULL,NULL
+BIRDS OF A FEATHER,6dOtVTDdiauQNBQEDOtlAB,210.373,album,95,Billie Eilish,3.51,Very High,Medium
+You and Me and Miami,4ORtkHM1HJxGeIHY1ZXOls,167.866,single,46,Michael Gilas,2.8,Medium,Medium
+Counting Stars,5edBgVtRD0fvWk140Sl21T,257.266,album,1,OneRepublic,4.29,NULL,NULL
+Photograph,1HNkqx9Ahdgi1Ixy2xkKkL,258.986,album,87,Ed Sheeran,4.32,Very High,NULL
+The Sick,18d1pubaNYUpaKIeSoxPFA,195.434,single,79,Bella Kay,3.26,High,Medium
+Die With A Smile,2plbrEY59IikOBgBGLjaoe,251.667,single,92,"Lady Gaga, Bruno Mars",4.19,Very High,NULL
+Señorita,0TK2YIli7K1leLovkQiNik,190.96,single,80,"Shawn Mendes, Camila Cabello",3.18,Very High,Medium
+We'll Carry On,1KqdmnSUtIc2YYxeD1OX7k,189.653,single,13,Forrest Hill ,3.16,NULL,Medium
+Cruel Summer,1BxfuPKGuaTgP7aM0Bbdwr,178.426,album,87,Taylor Swift,2.97,Very High,Medium
+Watermelon Sugar,6UelLqGlWMcVH1E5c4H7lY,173.991,album,83,Harry Styles,2.9,Very High,Medium
+Can't Hold Us (feat. Ray Dalton),3bidbhpOYeV4knp8AIu8Xn,258.342,album,79,"Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton",4.31,High,NULL
+Sunlight,2NQzj8czPzUw9ufCOvAT8W,266.358,single,46,The Hourglass Effect,4.44,Medium,NULL
+Don't Start Now,3PfIrDoz19wz7qK7tYeu62,183.29,album,82,Dua Lipa,3.05,Very High,Medium
+Viva La Vida,1mea3bSkSGXuIRvnydlB5b,242.373,album,87,Coldplay,4.04,Very High,NULL
+Die For You,2Ch7LmS7r2Gy2kc64wv3Bz,260.252,album,80,The Weeknd,4.34,Very High,NULL
+Birdsong,4POMT5FHXoIgAEjflxSqMw,384.117,single,23,Mynd Reader,6.4,NULL,NULL
+Every Breath You Take,1JSTJqkT5qHq8MDJnJbRE1,253.92,album,91,The Police,4.23,Very High,NULL
+Lucid Dreams,285pBltuF7vW8TeWk8hdRR,239.835,album,83,Juice WRLD,4,Very High,Medium
+Circles,21jGcNKet2qwijlDFuPiPb,215.28,album,86,Post Malone,3.59,Very High,Medium
+Just the Way You Are,47Slg6LuqLaX0VodpSCvPt,220.734,album,81,Bruno Mars,3.68,Very High,Medium
+goosebumps,6gBFPUFcJLzWGx4lenP6h2,243.836,album,85,Travis Scott,4.06,Very High,NULL
+Burn,0KibGGRVuQKouqf0RBRLzs,272.36,single,32,Static Bloom,4.54,Low,NULL
+Bohemian Rhapsody - Remastered 2011,4u7EnebtmKWzUH433cf5Qv,354.32,album,82,Queen,5.91,Very High,NULL
+Love Yourself,3hB5DgAiMAQ4DzYbsMq1IT,233.72,album,2,Justin Bieber,3.9,NULL,Medium
+Thinking out Loud,34gCuhDGsG4bRPIf9bb02f,281.56,album,85,Ed Sheeran,4.69,Very High,NULL
+Shallow,2VxeLyX666F8uXCJ0dZF8B,215.733,album,85,"Lady Gaga, Bradley Cooper",3.6,Very High,Medium
+Petrichor,2fYEGzjD7wkTy87BQHPdcr,231.488,single,28,Katalysst,3.86,NULL,Medium
+Wake Me Up - Radio Edit,6g1NlCpW7fgqDnWbCCDrHl,247.426,album,6,Avicii,4.12,NULL,NULL
+God's Plan,6T8cJz5lAqGer9GUHGyelE,198.96,single,1,Drake,3.32,NULL,Medium
+All of Me,3U4isOIWM3VvDubwSI3y7a,269.556,album,86,John Legend,4.49,Very High,NULL
+Locked out of Heaven,5g7sDjBhZ4I3gcFIpkrLuI,233.653,album,56,Bruno Mars,3.89,Medium,Medium
+Ax S 2 X S,4jk7rRqHotxdb1S4Tfcl5q,198.556,single,34,Keith Rayburn,3.31,Low,Medium
+Iris,6Qyc6fS4DsZjB2mRW9DsQs,289.533,album,93,The Goo Goo Dolls,4.83,Very High,NULL
+In the End,60a0Rd6pjrkxjPbaKzXjfq,216.88,album,89,Linkin Park,3.61,Very High,Medium
+When I Was Your Man,0B7wvvmu9EISAwZnOpjhNI,213.826,album,55,Bruno Mars,3.56,Medium,Medium
+Thunder,0tKcYR2II1VCQWT79i5NrW,187.146,album,6,Imagine Dragons,3.12,NULL,Medium
+Mr. Brightside,003vvx7Niy0yvhvHt4a68B,222.973,album,89,The Killers,3.72,Very High,Medium
+That's What I Like,0KKkJNfGyhkQ5aFogxQAPU,206.693,album,89,Bruno Mars,3.44,Very High,Medium
+Demons,2Oehrcv4Kov0SuIgWyQY9e,175.2,album,5,Imagine Dragons,2.92,NULL,Medium
+The Hills,25khomWgBVamSdKw7hzm3l,242.253,album,1,The Weeknd,4.04,NULL,NULL
+Without Me,7lQ8MOhq6IN2w8EYcFNSUk,290.32,album,88,Eminem,4.84,Very High,NULL
+bad guy,2Fxmhks0bxGSBdJ92vM42m,194.087,album,82,Billie Eilish,3.23,Very High,Medium
+LET’S GO!,0L0LgwFZ7UtBnRNQvSBty6,144.311,single,50,PsychoYP,2.41,Medium,Short
+Stressed Out,3CRDbSIZ4r5MsZ0YwxuEkn,202.333,album,86,Twenty One Pilots,3.37,Very High,Medium
+Do I Wanna Know?,5FVd6KXrgO9B3JPmC8OPst,272.394,album,87,Arctic Monkeys,4.54,Very High,NULL
+HUMBLE.,7ujx3NYtwO2LkmKGz59mXp,177,album,3,Kendrick Lamar,2.95,NULL,Medium
+Use Your Words,61wihRSEIpEryVSPSswNKe,253.88,single,35,Mood Drills,4.23,Low,NULL
+No Role Modelz,68Dni7IE4VyPkTOH9mRWHr,292.799,album,86,J. Cole,4.88,Very High,NULL
+Let Me Love You,0lYBSQXN6rCTvUZvg9S0lU,205.946,album,88,"DJ Snake, Justin Bieber",3.43,Very High,Medium
+Lose Yourself,7MJQ9Nfxzh8LPZ9e9u68Fq,320.626,compilation,71,Eminem,5.34,High,NULL
+Flowers,7DSAEUvxU8FajXtRloy8M0,200.6,album,85,Miley Cyrus,3.34,Very High,Medium
+"All The Stars (with SZA) - From ""Black Panther: The Album""",3GCdLUSnKSMJhs4Tj6CV3s,232.186,album,89,"Kendrick Lamar, SZA",3.87,Very High,Medium
+Unforgettable,3B54sVLJ402zGa6Xm4YGNe,233.901,album,86,"French Montana, Swae Lee",3.9,Very High,Medium
+Let Her Go,7DFNE7NO0raLIUbgzY2rzm,252.866,album,4,Passenger,4.21,NULL,NULL
+See You Again (feat. Kali Uchis),7KA4W4McWYRpgf0fWsJZWB,180.386,album,89,"Tyler, The Creator, Kali Uchis",3.01,Very High,Medium
+Treat You Better,48DKpTEVJ2pAjxQbWTad3q,187.973,album,57,Shawn Mendes,3.13,Medium,Medium
+drivers license,5wANPM4fQCJwkGd4rN57mH,242.013,album,86,Olivia Rodrigo,4.03,Very High,NULL
+7 rings,6ocbgoVGwYJhOv1GgI9NsF,178.626,album,85,Ariana Grande,2.98,Very High,Medium
+Kill Bill,3OHfY25tqY28d16oZczHc8,153.946,album,78,SZA,2.57,High,Medium
+Seven (feat. Latto) (Explicit Ver.),2HRgqmZQC0MC7GeNuDIXHN,183.55,album,84,"Jung Kook, Latto",3.06,Very High,Medium
+Smells Like Teen Spirit,4CeeEOM32jQcH3eN9Q2dGj,301.92,album,85,Nirvana,5.03,Very High,NULL
+No Escape,2JAgF87lye71Gt2zhFqtxp,264.18,single,19,Carl Moon,4.4,NULL,NULL
+Espresso,1vLqigPHwiFnXsfrLMehV1,175.459,single,67,Sabrina Carpenter,2.92,High,Medium
+Don't Stop Believin',77NNZQSqzLNqh2A9JhLRkg,248.906,compilation,76,Journey,4.15,High,NULL
+Sorry,69bp2EbF7Q2rqc5N3ylezZ,200.786,album,3,Justin Bieber,3.35,NULL,Medium
+The Scientist,75JFxkI2RXiU7L9VXzMkle,309.6,album,89,Coldplay,5.16,Very High,NULL
+There's Nothing Holdin' Me Back,7JJmb5XwzOO8jgpou264Ml,199.44,album,87,Shawn Mendes,3.32,Very High,Medium
+Beautiful Things,3xkHsmpQCBMytMJNiDf3Ii,180.304,album,89,Benson Boone,3.01,Very High,Medium
+One Kiss (with Dua Lipa),7ef4DlsgrMEH11cDZd32M6,214.846,single,80,"Calvin Harris, Dua Lipa",3.58,Very High,Medium
+Sounds Like Ink,00gKR5DXGjWU8fE0ik7z1J,197.555,single,38,Michael Day Walston,3.29,Low,Medium
+Wonderwall,1qPbGZqppFwLwcBC1JQ6Vr,258.906,album,75,Oasis,4.32,High,NULL
+Take on Me,2WfaOiMkCvy7F5fcp2zZ8L,225.28,album,87,a-ha,3.75,Very High,Medium
