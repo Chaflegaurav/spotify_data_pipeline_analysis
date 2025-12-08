@@ -1,4 +1,4 @@
-USE SpotifyDB;
+USE SpotifyDB; 
 GO
 
 -- 1. BASIC DATA OVERVIEW
