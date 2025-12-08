@@ -8,7 +8,7 @@ End-to-end data engineering project analyzing Spotify Top 100 tracks using moder
 
 ## 🏗️ Architecture Pipeline
 
-🏆 Project Summary
+## 🏆 Project Summary
 This project simulates a real-world retail analytics scenario.
 It covers everything from data cleaning → SQL insights → dashboards, demonstrating the complete workflow a Data Analyst performs in an organization.
 
